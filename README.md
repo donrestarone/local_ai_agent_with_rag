@@ -10,7 +10,7 @@ source .venv/bin/activate
 uv pip install requirements.txt
 ```
 
-install ollama and pull the LLM and embedding model
+install ollama: https://ollama.com/download and pull the LLM and embedding model 
 
 ``` bash
 ollama pull llama3.2
